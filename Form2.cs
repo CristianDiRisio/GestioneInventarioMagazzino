@@ -104,7 +104,7 @@ namespace CapolavoroGestioneMagazzino
             };
             LoginButton.Click += (s, args) =>
             {
-                if (NomeTextBox.Text == "Admin" && PasswordTextBox.Text == "Admin25122007@")
+                if (NomeTextBox.Text == "Admin" && PasswordTextBox.Text == "AdminCapolavoroMagazzino2025")
                 {
                     this.Hide();
                     AD AD = new AD();
