@@ -16,3 +16,9 @@ Credit: Cristian Di Risio.
 Dev: Cristian Di Risio.
 
 Discord: dicris_07_
+
+Credenziali Admin:
+
+Nome: Admin.
+Password: AdminCapolavoroMagazzino2025
+
